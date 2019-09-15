@@ -2,7 +2,6 @@ const canvas = document.getElementById("jsCanvas"),
     ctx = canvas.getContext("2d"),
     colors = document.getElementsByClassName("jsColor");
 
-// 픽셀을 다루는 윈도우 크기를 지정
 canvas.width = 500;
 canvas.height = 500;
 
