@@ -8,6 +8,7 @@ const canvas = document.getElementById("jsCanvas"),
 const INITIAL_COLOR = "#2c2c2c";
 const CANVAS_SIZE = 500;
 
+// 그림이 그려질 실제 픽셀 크기
 canvas.width = CANVAS_SIZE;
 canvas.height = CANVAS_SIZE;
 
